@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-
+#
 iris = load_iris()  # load iris database
 
 # load database
